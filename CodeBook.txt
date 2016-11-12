@@ -1,0 +1,26 @@
+1. set working directory, download and unzip, create route, check the files.
+c:/courseraData/UCI HAR Dataset
+
+2. read the files and asign variables.
+
+xtrain 
+ytrain 
+subtrain 
+subtest
+xtest 
+ytest )
+
+3. create data set and merge it all.
+datatest_datatrain is the result of the merge of the dataset dtest and dtragin
+
+4. extract the statistical data required.
+
+
+colnames(dataFinal) gives the names of the columns
+dataFinal gives the values
+
+
+5. create the tidy dataset.
+
+dplyr is a library.
+datanew contais the new dataset.
